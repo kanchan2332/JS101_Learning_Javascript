@@ -1,0 +1,9 @@
+let a=20,b=20;
+if(a>b){
+  console.log("a is greater number ");
+}else if( b>a){
+  console.log("b is greter number");
+}else
+{
+  console.log(" both number are equal");
+}10.

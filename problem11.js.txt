@@ -1,0 +1,14 @@
+let dbname="kanchansony";
+let dbpassword="Soni#2332";
+let name="kanchansoni";
+let passord="Soni#2332";
+if(dbname==name){
+  if(dbpassword==password){
+    console.log("login");
+  }else
+  {
+    console.log(" password didn't match");
+  }
+}else{
+  console.log("NA");
+}

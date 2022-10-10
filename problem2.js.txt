@@ -1,0 +1,6 @@
+let name =" kanchan";
+console.log(name);
+name="Ramakant sony"
+console.log(name);
+name="Manju Devi";
+console.log(name);

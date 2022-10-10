@@ -1,0 +1,12 @@
+let x=12;
+let y=6;
+if(x>6){
+  console.log(x);
+}
+let bill=4000;
+let dcprice=3999;
+if(bill>dcprice){
+  console.log("elligible for discount");
+}else{
+  console.log("not illigible for discount");
+}

@@ -1,0 +1,6 @@
+let name="kanchan";
+let school="R.D.S public school";
+let grade="A+", section="B";
+let math=75, english =86, Science=50;
+console.log("name@:",name," ","School$:",school," ","grade:",grade," ","Section2@:",section);
+console.log("marks in following subjetL:-","MATH:",math, " ","English:",english," ","Science:",Science);
