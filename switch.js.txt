@@ -1,0 +1,16 @@
+let day="wed";
+switch(day){
+    case"sun":console.log("Sunday");
+    break;
+  case"tue":console.log("Tuesday");
+    break;
+    case"wed":console.log("wednesday");
+    break;
+    case"thr":console.log("thursday");
+    break;
+    case"fri":console.log("friday");
+    break;
+    case"sut":console.log("saturday");
+    break;
+  default:console.log("monday");
+}

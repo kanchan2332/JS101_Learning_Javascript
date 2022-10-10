@@ -1,0 +1,10 @@
+let char="C";
+if((char=="a"||char=="i"||char=="e"||char=="o"||char=="u")||(char=="A"||char=="I"||char=="E"||char=="O"||char=="U"))
+  
+{
+  console.log("vowel");
+  
+}
+else{
+  console.log("consonent");
+}
